@@ -6,7 +6,8 @@ commit is when you want to save the state of a file
 "git add" adds a file that will be tracked by git 
 "git commit -m "message"" message of what you have changed
 "git status" tells us whats on my computer vs on github
-"git push
+"git push" to put them onto github
+"git commit -am "message"" commmits -a(all changes)
 
 terminal 
 "ls" lists all files in directory
